@@ -1,4 +1,5 @@
-ex:5
+## EX.NO:5
+## DATE:
 
 ### ENCODER 8TO3 DATAFLOW Modelling
 
@@ -34,9 +35,6 @@ Logical circuit of the above expressions is given below:
 
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
-### DEVELOPED BY:ROSHINI S
-### REGISTER NUMBER: 212223240142
-
 
 **Procedure**
 1.Type the program in Quartus software.  
@@ -50,8 +48,11 @@ Logical circuit of the above expressions is given below:
 5.For different input combinations generate the timing diagram.  
 
 
-
 **PROGRAM**
+
+### DEVELOPED BY:ROSHINI S
+### REGISTER NUMBER: 212223240142
+
 
 ![image](https://github.com/Roshini2201/ENCODER8TO3DATAFLOW/assets/154105318/1661a684-aa83-42de-bdee-ddc7b032060e)
 
